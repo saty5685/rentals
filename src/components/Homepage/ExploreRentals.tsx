@@ -1,5 +1,5 @@
 
-import '../../css/ExploreRentals.css'
+import '../../css/Homepage.css'
 export const ExploreRentals = () => {
     return (
 

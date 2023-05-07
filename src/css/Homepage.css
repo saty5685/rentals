@@ -1,0 +1,42 @@
+.explore-bg-image {
+    background-image: url("../Images/UtilityImages/explore-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30em !important;
+    width: 100%;
+}
+
+.explore-content {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.explore-content-text {
+    color: aliceblue;
+}
+
+.header {
+    opacity: var(--mainOpacity);
+    height: 25em !important;
+}
+
+.carousel-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration-color: white;
+}
+
+.carousel-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 150px;
+}
+.carousel-top-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
